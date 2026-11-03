@@ -10,7 +10,7 @@
 
 可以使用安装界面提供的免费档，也可以配置自己的模型服务。免费额度与服务范围以当前界面和官网为准；自配模型的费用、权限及用量由对应服务决定。
 
-## 如何让它边做边汇报？
+## 如何让她边做边汇报？
 
 发送 `/work on`，在任务中说明“先给计划、过程中报告进展、先交中间结果”。如果仍看不到过程，检查当前渠道的过程显示和群聊设置。详见[交互任务](interactive-tasks.md)。
 
@@ -20,7 +20,7 @@
 
 ## /stop 会撤销已做的事吗？
 
-它停止当前会话的运行任务及待处理消息，不回滚已完成的外部操作。需要调整文件或已发送内容时，应另外交代恢复或修正。其他独立任务和定时安排需分别管理。
+`/stop` 停止当前会话的运行任务及待处理消息，不回滚已完成的外部操作。需要调整文件或已发送内容时，应另外交代恢复或修正。其他独立任务和定时安排需分别管理。
 
 ## 为什么 /tasks 没有列出正在回复的任务？
 
@@ -47,4 +47,4 @@ Engine7 的工作区和持久状态存储在你部署的电脑或服务器上。
 
 ## 哪里能看正式产品介绍？
 
-[官网介绍页](https://www.twinsun.top/intro/)可在线阅读及下载。GitHub 提供同版 [PDF](../materials/engine7-product-introduction.pdf) 与 [PPTX](../materials/engine7-product-introduction.pptx)，当前为 2026.11 中文 41 页版。
+[官网介绍页](https://www.twinsun.top/intro/)可在线阅读及下载。GitHub 提供同版 [PDF](../materials/engine7-product-introduction.pdf) 与 [PPTX](../materials/engine7-product-introduction.pptx)，当前为 2026.11 中文 44 页第二版。

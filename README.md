@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.twinsun.top/intro/">
-    <img src="assets/cover-2026-11.jpg" alt="Engine7 · 栖：你的日常，有了回响。记得你，办成事，长期在。" width="960">
+    <img src="assets/cover-2026-11-v2.jpg" alt="Engine7 · 栖：你的日常，有了回响。记得你，办成事，长期在。" width="960">
   </a>
 </p>
 
@@ -23,7 +23,7 @@ Self-hosted AI companion and agent engine with persistent memory, interactive ta
 | 看进展、改方向、及时打断 | [可交互、可干预的任务与命令](docs/interactive-tasks.md) |
 | 切换模型与配置备用服务 | [模型选择与 Fallback](docs/models-and-fallback.md) |
 | 常见问题与排查 | [FAQ](docs/faq.md) |
-| 正式对外产品材料 | [41 页产品介绍 PDF](materials/engine7-product-introduction.pdf) · [演示文件 PPTX](materials/engine7-product-introduction.pptx) |
+| 正式对外产品材料 | [44 页产品介绍 PDF](materials/engine7-product-introduction.pdf) · [演示文件 PPTX](materials/engine7-product-introduction.pptx) |
 
 ## 工作过程中，你始终能参与
 
@@ -45,6 +45,6 @@ Self-hosted AI companion and agent engine with persistent memory, interactive ta
 
 ## 产品材料与反馈
 
-本仓是 Engine7 的官方公开文档入口，现阶段发布产品介绍和使用说明。当前产品介绍为 **2026.11 中文 41 页版**；官网与本仓提供同一份正式材料，版本与更新记录见 [CHANGELOG](CHANGELOG.md)。
+本仓是 Engine7 的官方公开文档入口，现阶段发布产品介绍和使用说明。当前产品介绍为 **2026.11 中文 44 页第二版**；官网与本仓提供同一份正式材料，版本与更新记录见 [CHANGELOG](CHANGELOG.md)。
 
 欢迎通过 [Issues](https://github.com/ruiyangruiyi/engine7-docs/issues) 提交使用问题或文档建议。反馈时请提供版本、系统、渠道和复现步骤，并先去掉密钥及私人对话。觉得有帮助，可以点一个 **Star**，方便以后回来查看。
