@@ -1,6 +1,6 @@
 # 产品概览
 
-[返回文档首页](../README.md) · [在线阅读完整产品介绍](https://www.twinsun.top/intro/)
+[返回文档首页](../README.md) · [English](en/overview.md) · [在线阅读完整产品介绍](https://www.twinsun.top/intro/)
 
 Engine7 · 栖是一套可自托管的 AI 助理引擎。你可以在自己的电脑或服务器上运行，通过熟悉的聊天入口与她相处，把日常的想法、安排和工作交给她。
 

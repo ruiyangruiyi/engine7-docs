@@ -1,6 +1,6 @@
 # 可交互、可干预的任务
 
-[返回文档首页](../README.md) · [模型与备用机制](models-and-fallback.md)
+[返回文档首页](../README.md) · [English](en/interactive-tasks.md) · [模型与备用机制](models-and-fallback.md)
 
 **任务在工作，人也能随时参与。** Engine7 的交互方式把过程观察、补充要求和打断放在一起，帮助你及时发现偏差、缩小范围，并调整接下来的工作。
 

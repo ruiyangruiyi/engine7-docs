@@ -1,6 +1,6 @@
 # 模型选择与 Fallback
 
-[返回文档首页](../README.md) · [任务干预命令](interactive-tasks.md)
+[返回文档首页](../README.md) · [English](en/models-and-fallback.md) · [任务干预命令](interactive-tasks.md)
 
 Engine7 把伙伴的持久状态与模型选择分开。模型服务负责当前推理；工作区中的配置、记忆与文件随部署环境保存。你可以按任务选择模型，也可以配置备用模型或服务，提高服务可用性。
 

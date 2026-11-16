@@ -1,6 +1,6 @@
 # 快速开始
 
-[返回文档首页](../README.md)
+[返回文档首页](../README.md) · [English](en/quick-start.md)
 
 ## 路线一：安装程序
 
