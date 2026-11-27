@@ -14,7 +14,7 @@
 
 Self-hosted AI companion and agent engine with persistent memory, interactive tasks, multi-channel access and model fallback. This repository contains public product documents and user guides, currently in Chinese.
 
-[官网](https://www.twinsun.top/) · [下载安装](https://www.twinsun.top/download/) · [在线产品介绍](https://www.twinsun.top/intro/) · [使用反馈](https://github.com/ruiyangruiyi/engine7-docs/issues)
+[官网](https://www.twinsun.top/) · [下载安装](https://www.twinsun.top/download/) · [在线产品介绍](https://www.twinsun.top/intro/) · [海外站 engine7.ai](https://engine7.ai/zh-CN/) · [使用反馈](https://github.com/ruiyangruiyi/engine7-docs/issues)
 
 ## 从这里开始
 

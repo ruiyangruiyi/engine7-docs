@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.twinsun.top/intro/">
+  <a href="https://engine7.ai/intro/">
     <img src="assets/cover-2026-11-v2.jpg" alt="Engine7 · 栖: your day, with a little more echo. Remembers you, gets things done, stays around." width="960">
   </a>
 </p>
@@ -14,7 +14,7 @@ An AI companion that knows you, lives with you, and gets real work done. Engine7
 
 This repository contains public product documents and user guides. The product introduction PDF is currently in Chinese; English documentation lives under [docs/en/](docs/en/).
 
-[Website](https://www.twinsun.top/en/) · [Download](https://www.twinsun.top/en/download/) · [Product introduction (online)](https://www.twinsun.top/intro/) · [Feedback](https://github.com/ruiyangruiyi/engine7-docs/issues)
+[Website](https://engine7.ai/) · [Download](https://engine7.ai/download/) · [Product introduction (online)](https://engine7.ai/intro/) · [China mirror](https://www.twinsun.top/en/) · [Feedback](https://github.com/ruiyangruiyi/engine7-docs/issues)
 
 ## Start Here
 
